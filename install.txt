@@ -1,5 +1,0 @@
-apt install python-software-properties
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-apt install nodejs
-npm install -g @angular/cli
-npm i npm@latest -g
