@@ -32,4 +32,6 @@ jobs:
       uses: SonarSource/sonarqube-scan-action@v1.1.0
       with:
         projectBaseDir: .
+      env:
+        SONAR_TOKEN: 41be40e0bb97fd219011124865a4244e3aad5893
     
