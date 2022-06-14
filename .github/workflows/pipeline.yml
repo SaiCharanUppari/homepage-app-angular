@@ -27,6 +27,6 @@ jobs:
       with:
         projectBaseDir: .
       env:
-        SONAR_TOKEN: 6ca2fe94cb7d4399eba9750124a7aa29ae761c25
-        SONAR_HOST_URL: https://0635a98c005c4cb6a9e69ac185883ff8-167772169-9000-ollie02.environments.katacoda.com
+        SONAR_TOKEN: 9a525d274d34b69198c8a04964ed1f5bb5ce05a2
+        SONAR_HOST_URL: https://394e3f26199243a890f02d5ffbe80fe5-167772195-9000-ollie09.environments.katacoda.com
     
